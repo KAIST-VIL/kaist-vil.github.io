@@ -31,6 +31,10 @@
 
         <div class="jobtitle">
           <code>{{person.jobtitle}}</code>
+          {% if person.period %}
+          <code style="background-color: #027da0">{{person.period}} </code>
+          <br />
+          {% endif %}
           {% if person.google_scholar %}
           <img
             onclick="window.open('https://scholar.google.com/citations?user={{ person.google_scholar }}');"
