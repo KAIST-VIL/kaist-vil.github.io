@@ -177,7 +177,7 @@ Past:
   - name: 
     engName: SangKeum Lee
     degree: 
-    period: 
+    period: 2020
     bio: 한밭대학교 교수
     jobtitle: Ph.D.
     portrait: ../img/ppl/sd974201.gif
@@ -187,7 +187,7 @@ Past:
   - name: 
     engName: Luiz Felipe Santos Vecchietti
     degree: 
-    period: 
+    period: 2021
     bio: Max Planck Institute for Security and Privacy (MPI-SP) #기초과학연구원 (IBS)
     jobtitle: Ph.D.
     portrait: ../img/ppl/lfelipesv.gif
@@ -201,7 +201,7 @@ Past:
     # bio: |
     #   &bull; Smart Grid Technologies
     #   &bull; Scheduling Optimization of Power Systems
-    period:
+    period: 2024
     jobtitle: Ph.D.
     portrait: ../img/ppl/Hojun.gif
     #e-mail: hjjin1995@kaist.ac.kr
@@ -214,7 +214,7 @@ Past:
     #   &bull; Multi-goal Reinforcement Learning
     #   &bull; Robotics
     #   &bull; Artificial Intelligence 
-    period:
+    period: 2025
     jobtitle: Ph.D.
     portrait: ../img/ppl/ngng9957.gif
     #e-mail: ngng9957@kaist.ac.kr
@@ -227,7 +227,7 @@ Past:
     #   &bull; Microgrids
     #   &bull; Distributed Generation
     #   &bull; Renewable Energy 
-    period:
+    period: 2025
     jobtitle: Ph.D.
     portrait: ../img/ppl/20215415.gif
     # e-mail: sarvar@kaist.ac.kr
@@ -239,7 +239,7 @@ Past:
   - name: 
     engName: HyunGyu Ryu
     degree: 
-    period: 
+    period: 2016
     bio: LS산전
     jobtitle: M.S.
     portrait: ../img/ppl/hot6472.gif
@@ -249,7 +249,7 @@ Past:
   - name: 
     engName: Celso Moraes
     degree: 
-    period: 
+    period: 2017
     bio: 카이스트
     jobtitle: M.S.
     portrait: ../img/ppl/asura254.gif
@@ -259,7 +259,7 @@ Past:
   - name: 
     engName: SungHee Myung
     degree: 
-    period: 
+    period: 2018
     bio: 국방과학연구소(ADD)
     jobtitle: M.S.
     portrait: ../img/ppl/92happy.gif
@@ -269,7 +269,7 @@ Past:
   - name: 
     engName: 	MinAh Seo
     degree: 
-    period: 
+    period: 2019
     bio: Korea Telecom (KT)
     jobtitle: M.S.
     portrait: ../img/ppl/sglue0530s.gif
@@ -279,7 +279,7 @@ Past:
   - name: 
     engName: 	KyungJae Nam
     degree: 
-    period: 
+    period: 2020
     bio: 국방과학연구소 (ADD)
     jobtitle: M.S.
     portrait: ../img/ppl/tuta4048.gif
@@ -289,7 +289,7 @@ Past:
   - name: 
     engName: Hojun Jin
     degree: 
-    period: 
+    period: 2020
     bio: 박사진학
     jobtitle: M.S.
     portrait: ../img/ppl/horang1976.gif
@@ -299,7 +299,7 @@ Past:
   - name: 
     engName: WooYeol Ryu
     degree: 
-    period: 
+    period: 2020
     bio: 
     jobtitle: M.S.
     portrait: ../img/ppl/ritzgerlad.gif
@@ -309,7 +309,7 @@ Past:
   - name: 
     engName: SungKwan Kim
     degree: 
-    period: 
+    period: 2021
     bio: 현대자동차
     jobtitle: M.S.
     portrait: ../img/ppl/sungkwankim.gif
@@ -319,7 +319,7 @@ Past:
   - name: 
     engName: KyuJin Choi
     degree: 
-    period: 
+    period: 2021
     bio: Korea Telecom (KT)
     jobtitle: M.S.
     portrait: ../img/ppl/nav3549.gif
@@ -329,7 +329,7 @@ Past:
   - name: 
     engName: Taeyoung Kim
     degree: 
-    period: 
+    period: 2021
     bio: 박사진학
     jobtitle: M.S.
     portrait: ../img/ppl/ngng9957.gif
@@ -339,7 +339,7 @@ Past:
   - name: 
     engName: 	Inhwan Kim
     degree: 
-    period: 
+    period: 2022
     bio: 현대 로보틱스 
     jobtitle: M.S.
     portrait: ../img/ppl/troy23.gif
@@ -349,7 +349,7 @@ Past:
   - name: 
     engName: Injoon Cho
     degree: 
-    period: 
+    period: 2023
     bio: 
     jobtitle: M.S.
     portrait: ../img/ppl/oprij12.gif
@@ -359,7 +359,7 @@ Past:
   - name: 
     engName: Praveen Kumar Rajendran
     degree: 
-    period: 
+    period: 2023
     bio: 뉴빌리티 (Neubility)
     jobtitle: M.S.
     portrait: ../img/ppl/praveenkumar.gif
@@ -369,7 +369,7 @@ Past:
   - name: 
     engName: 	Lai Dang Quoc Vinh
     degree: 
-    period: 
+    period: 2023
     bio: 박사진학
     jobtitle: M.S.
     portrait: ../img/ppl/20214194.gif
@@ -379,7 +379,7 @@ Past:
   - name: 
     engName: 	Mishra Sumit
     degree: 
-    period: 
+    period: 2023
     bio: 박사진학
     jobtitle: M.S.
     portrait: ../img/ppl/sumitmishra209.gif
@@ -390,7 +390,7 @@ Past:
     engName: Bumgeun Park
     degree:
     bio: 박사진학
-    period:
+    period: 2024
     jobtitle: M.S.
     portrait: ../img/ppl/j4t123.gif
     e-mail: 
@@ -400,7 +400,7 @@ Past:
     engName: Woohyeon Moon
     degree:
     bio: 한화시스템
-    period:
+    period: 2024
     jobtitle: M.S. 
     portrait: ../img/ppl/mwh510.jpg
     e-mail:
@@ -414,7 +414,7 @@ Past:
     #  &bull; Deep Learning
     #  &bull; Computer Vision
     #  &bull; Perception for Autonomous Driving 
-    period:
+    period: 2024
     jobtitle: M.S. 
     portrait: ../img/ppl/wlgml0920.gif
     #e-mail: jihui@kaist.ac.kr
@@ -429,7 +429,7 @@ Past:
     #   &bull; Natural Language Processing
     #   &bull; Reinforcement Learning
     #   &bull; Robot Control 
-    period:
+    period: 2025
     jobtitle: M.S.
     portrait: ../img/ppl/Seungah.jpg
     #e-mail: seungahson@kaist.ac.kr
@@ -444,7 +444,7 @@ Past:
     #   &bull; Robot Control
     #   &bull; Simulation for Digital Twin
     #   &bull; Reinforcement Learning
-    period:
+    period: 2025
     jobtitle: M.S.
     portrait: ../img/ppl/Haechan.gif
     #e-mail: haechan@kaist.ac.kr
@@ -458,7 +458,7 @@ Past:
     # &bull; Transportation Network Optimization
     # &bull; Traffic Simulation and Modelling
     # &bull; Sustainable Mobility 
-    period:
+    period: 2025
     jobtitle: M.S.
     portrait: ../img/ppl/guest1.gif
     #e-mail: medhavi132@kaist.ac.kr
