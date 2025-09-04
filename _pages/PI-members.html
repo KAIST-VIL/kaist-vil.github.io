@@ -43,9 +43,16 @@
         </p>
         <hr />
         <p style="margin-top: 5px; margin-bottom: 1px; display: block">
-          <strong>Work Experience:</strong> {{ person.Work | newline_to_br |
-          markdownify }}
+          <strong>Work Experience:</strong>
         </p>
+        <table>
+          {% for job in person.Work %}
+          <tr>
+            <td style="padding-right:10px;">{{ job.period }}</td>
+            <td>{{ job.position }}</td>
+          </tr>
+          {% endfor %}
+        </table>
         <hr />
         <p style="margin-top: 5px; margin-bottom: 1px; display: block">
           <strong>Research Interests:</strong> {{ person.Research |
