@@ -9,11 +9,12 @@ PI:
       Seoul National University, Korea (M.S., Electronics Engineering)
       Seoul National University, Korea (B.S., Electronics Engineering)
     Work: |
-      2017.1 - IEEE Sensor Journal Associate Editor
-      2013.1 - present Associate Professor, KAIST
-      2003.3 - 2012.12 Associate Professor, GIST
-      2000.8 - 2001.8 Senior Engineer, Romeo System, USA
-      1997.5 - 2000.7 Senior RF engineer, Vodafone, USA
+      2025.09 - present   Professor, KAIST
+      2017.01 - present   IEEE Sensor Journal Associate Editor
+      2013.01 - 2025.08   Associate Professor, KAIST
+      2003.03 - 2012.12   Associate Professor, GIST
+      2000.08 - 2001.08   Senior Engineer, Romeo System, USA
+      1997.05 - 2000.07   Senior RF engineer, Vodafone, USA
     Research: |
       Multimedia Communication System Design and Implementation in ITS
       Communication System/Network for Autonomous Vehicles
@@ -35,14 +36,14 @@ PI:
     google_scholar: DLByqJgAAAAJ
 
 etcMembers:
-  - name: 
-    engName: YoungMi Choi
-    degree:
-    bio:
-    period:
-    jobtitle: Staff
-    portrait: ../img/ppl/howifegod.gif
-    e-mail: howifegod@kaist.ac.kr
+  # - name: 
+  #   engName: YoungMi Choi
+  #   degree:
+  #   bio:
+  #   period:
+  #   jobtitle: Staff
+  #   portrait: ../img/ppl/howifegod.gif
+  #   e-mail: howifegod@kaist.ac.kr
 
   - name: 
     engName: JuHee Jin
@@ -56,43 +57,18 @@ etcMembers:
 
 Members:
 
-
-
-  #- name:
-  #  engName: Lai Dang Quoc Vinh
-  #  degree:
-  #  bio: |
-  #    &bull; Deep Learning
-  #    &bull; Computer Vision
-  #    &bull; Autonomous Driving 
-  #  period:
-  #  jobtitle: Ph.D. Candidate
-  #  portrait: ../img/ppl/20214194.gif
-  #  e-mail: ldqvinh@kaist.ac.kr
-  #  google_scholar: 89O1KmgAAAAJ
   - name: 
-    engName: Taemin Kang 
+    engName: Jungho Ahn
     degree:
     bio: |
-      &bull; Robotics
-      &bull; Control
       &bull; Reinforcement Learning
+      &bull; Representation Learning
+      &bull; Robotics
+    period: 
     jobtitle: M.S. Candidate
-    portrait: ../img/ppl/Taemin.jpg
-    e-mail: tmkang9826@kaist.ac.kr
+    portrait: ../img/ppl/ajh427.jpg
+    e-mail: ajh427@kaist.ac.kr
     google_scholar: 
-  
-  # - name: 
-  #   engName: Hojun Jin
-  #   degree:
-  #   bio: |
-  #     &bull; Smart Grid Technologies
-  #     &bull; Scheduling Optimization of Power Systems
-  #   period:
-  #   jobtitle: Post Doc
-  #   portrait: ../img/ppl/Hojun.gif
-  #   e-mail: hjjin1995@kaist.ac.kr
-  #   google_scholar: -SC_1hwAAAAJ&hl=ko&oi=ao
 
   - name: 
     engName: Taeyoung Kim
@@ -145,19 +121,6 @@ Members:
     jobtitle: M.S. Candidate
     portrait: ../img/ppl/Andres.gif
     e-mail: asaurez@kaist.ac.kr
-    google_scholar: 
-
-  - name: 
-    engName: Jungho Ahn
-    degree:
-    bio: |
-      &bull; Reinforcement Learning
-      &bull; Representation Learning
-      &bull; Robotics
-    period: 
-    jobtitle: M.S. Candidate
-    portrait: ../img/ppl/ajh427.jpg
-    e-mail: ajh427@kaist.ac.kr
     google_scholar: 
 
   - name:
@@ -475,4 +438,17 @@ Past:
     jobtitle: M.S.
     portrait: ../img/ppl/guest1.gif
     #e-mail: medhavi132@kaist.ac.kr
+    google_scholar: 
+    
+  - name: 
+    engName: Taemin Kang 
+    degree:
+    bio: 삼성DX
+    # bio: |
+    #   &bull; Robotics
+    #   &bull; Control
+    #   &bull; Reinforcement Learning
+    jobtitle: M.S.
+    portrait: ../img/ppl/Taemin.jpg
+    # e-mail: tmkang9826@kaist.ac.kr
     google_scholar: 
