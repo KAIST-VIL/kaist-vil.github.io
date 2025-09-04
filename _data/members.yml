@@ -64,7 +64,7 @@ Members:
       &bull; Reinforcement Learning
       &bull; Representation Learning
       &bull; Robotics
-    period: 
+    period: Lab Representative
     jobtitle: M.S. Candidate
     portrait: ../img/ppl/ajh427.jpg
     e-mail: ajh427@kaist.ac.kr
@@ -448,6 +448,7 @@ Past:
     #   &bull; Robotics
     #   &bull; Control
     #   &bull; Reinforcement Learning
+    period: 2025
     jobtitle: M.S.
     portrait: ../img/ppl/Taemin.jpg
     # e-mail: tmkang9826@kaist.ac.kr
