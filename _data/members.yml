@@ -6,27 +6,27 @@ PI:
     Education:
     bio: |
       Dongsoo Har received the B.Sc. and M.Sc. degrees in electronics engineering from Seoul National University, respectively, and the Ph.D. degree in electrical engineering from Polytechnic University, Brooklyn, NY, USA. He is currently a faculty member of KAIST. He was a recipient of the Best Paper Award (Jack Neubauer Award) from the IEEE Transactions on Vehicular Technology in 2000. He is an associate editor of IEEE Sensors Journal. He authored and published more than 100 articles in international journals and conferences. He was the member of advisory board, program chair, vice chair, and general chair of international conferences. He also presented invited talks and keynote in international conferences. His main research interests include optimization of communication system operation and transportation system development with embedded artificial intelligence.
-      Polytechnic University at Brooklyn, U.S.A.(Ph.D., Electrical Engineering)
-      Seoul National University, Korea (M.S., Electronics Engineering)
-      Seoul National University, Korea (B.S., Electronics Engineering)
-    Work:
-      - period:   "2025.09 - Present"
-        position: "Professor, KAIST"
-      - period:   "2017.01 - Present"
-        position: "IEEE Sensor Journal Associate Editor"
-      - period:   "2013.01 - 2025.08"
-        position: "Associate Professor, KAIST"
-      - period:   "2003.03 - 2012.12"
-        position: "Associate Professor, GIST"
-      - period:   "2000.08 - 2001.08"
-        position: "Senior Engineer, Romeo System, USA"
-      - period:   "1997.05 - 2000.07"
-        position: "Senior RF engineer, Vodafone, USA"
-    Research: |
-      Multimedia Communication System Design and Implementation in ITS
-      Communication System/Network for Autonomous Vehicles
-      Wireless Sensor Network Design and Implementation for ITS
-      High-efficiency digital system design for power grid
+    #   Polytechnic University at Brooklyn, U.S.A.(Ph.D., Electrical Engineering)
+    #   Seoul National University, Korea (M.S., Electronics Engineering)
+    #   Seoul National University, Korea (B.S., Electronics Engineering)
+    # Work:
+    #   - period:   "2025.09 - Present"
+    #     position: "Professor, KAIST"
+    #   - period:   "2017.01 - Present"
+    #     position: "IEEE Sensor Journal Associate Editor"
+    #   - period:   "2013.01 - 2025.08"
+    #     position: "Associate Professor, KAIST"
+    #   - period:   "2003.03 - 2012.12"
+    #     position: "Associate Professor, GIST"
+    #   - period:   "2000.08 - 2001.08"
+    #     position: "Senior Engineer, Romeo System, USA"
+    #   - period:   "1997.05 - 2000.07"
+    #     position: "Senior RF engineer, Vodafone, USA"
+    # Research: |
+    #   Multimedia Communication System Design and Implementation in ITS
+    #   Communication System/Network for Autonomous Vehicles
+    #   Wireless Sensor Network Design and Implementation for ITS
+    #   High-efficiency digital system design for power grid
     Honors_and_Awards:
       Honors: |
         Minister Commendation (2016), Ministry of Land, Infrastructure, and Transport
