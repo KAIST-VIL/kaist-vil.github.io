@@ -118,19 +118,6 @@ Members:
     google_scholar: FlF_MsEAAAAJ
 
   - name:
-    engName: Andres Saurez
-    degree:
-    bio: |
-      &bull; Visual Language Navigation
-      &bull; Autonomous Vehicles
-      &bull; Computer Vision 
-    period:
-    jobtitle: M.S. Candidate
-    portrait: ../img/ppl/Andres.gif
-    e-mail: asaurez@kaist.ac.kr
-    google_scholar: 
-
-  - name:
     engName: Yusung Lee
     degree:
     bio: |
@@ -459,4 +446,18 @@ Past:
     jobtitle: M.S.
     portrait: ../img/ppl/Taemin.jpg
     # e-mail: tmkang9826@kaist.ac.kr
+    google_scholar: 
+
+  - name:
+    engName: Andres Saurez
+    degree:
+    bio:
+    # bio: |
+    #   &bull; Visual Language Navigation
+    #   &bull; Autonomous Vehicles
+    #   &bull; Computer Vision 
+    period: 2026
+    jobtitle: M.S.
+    portrait: ../img/ppl/Andres.gif
+    # e-mail: asaurez@kaist.ac.kr
     google_scholar: 
