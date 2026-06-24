@@ -64,6 +64,19 @@ etcMembers:
 
 Members:
 
+  - name:
+    engName: Yusung Lee
+    degree:
+    bio: |
+      &bull; Artificial intelligence
+      &bull; Efficient Deep Learning
+      &bull; Model Pruning
+    period: Lab Representative
+    jobtitle: M.S. Candidate
+    portrait: ../img/ppl/Leeyusung.jpg
+    e-mail: yslee410@kaist.ac.kr
+    google_scholar: 
+
   - name: 
     engName: Jungho Ahn
     degree:
@@ -71,24 +84,11 @@ Members:
       &bull; Reinforcement Learning
       &bull; Representation Learning
       &bull; Robotics
-    period: Lab Representative
+    period:
     jobtitle: M.S. Candidate
     portrait: ../img/ppl/ajh427.jpg
     e-mail: ajh427@kaist.ac.kr
     google_scholar: 
-
-  - name: 
-    engName: Taeyoung Kim
-    degree:
-    bio: |
-      &bull; Multi-goal Reinforcement Learning
-      &bull; Robotics
-      &bull; Artificial Intelligence 
-    period:
-    jobtitle: Post Doc
-    portrait: ../img/ppl/ngng9957.gif
-    e-mail: ngng9957@kaist.ac.kr
-    google_scholar: 9_cTJZ4AAAAJ
 
   - name:
     engName: Mishra Sumit
@@ -117,31 +117,6 @@ Members:
     e-mail: neha.sengar@kaist.ac.kr
     google_scholar: FlF_MsEAAAAJ
 
-  - name:
-    engName: Yusung Lee
-    degree:
-    bio: |
-      &bull; Artificial intelligence
-      &bull; Efficient Deep Learning
-      &bull; Model Pruning
-    period:
-    jobtitle: M.S. Candidate
-    portrait: ../img/ppl/Leeyusung.jpg
-    e-mail: yslee410@kaist.ac.kr
-    google_scholar: 
-
-  # - name:
-  #   engName: Ha-Eun Kim
-  #   degree:
-  #   bio: |
-  #     &bull; TBD
-  #     &bull; 
-  #     &bull; 
-  #   period:
-  #   jobtitle: M.S. Candidate
-  #   portrait: ../img/ppl/haeun.jpg
-  #   e-mail: haeun_kim@kaist.ac.kr
-  #   google_scholar: 
     
 Past:
   - name: 
@@ -180,13 +155,14 @@ Past:
   - name: 
     engName: Taeyoung Kim
     degree:
+    bio: 한국전자통신연구원
     # bio: |
     #   &bull; Multi-goal Reinforcement Learning
     #   &bull; Robotics
     #   &bull; Artificial Intelligence 
     period: 2025
     jobtitle: Ph.D.
-    portrait: ../img/ppl/ngng9957.gif
+    portrait: ../img/ppl/Taeyoung.jpg
     #e-mail: ngng9957@kaist.ac.kr
     #google_scholar: 9_cTJZ4AAAAJ
 
