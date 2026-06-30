@@ -77,19 +77,6 @@ Members:
     e-mail: yslee410@kaist.ac.kr
     google_scholar: 
 
-  - name: 
-    engName: Jungho Ahn
-    degree:
-    bio: |
-      &bull; Reinforcement Learning
-      &bull; Representation Learning
-      &bull; Robotics
-    period:
-    jobtitle: M.S. Candidate
-    portrait: ../img/ppl/ajh427.jpg
-    e-mail: ajh427@kaist.ac.kr
-    google_scholar: 
-
   - name:
     engName: Mishra Sumit
     degree:
@@ -436,4 +423,18 @@ Past:
     jobtitle: M.S.
     portrait: ../img/ppl/Andres.gif
     # e-mail: asaurez@kaist.ac.kr
+    google_scholar: 
+  
+  - name: 
+    engName: Jungho Ahn
+    degree:
+    bio:
+    # bio: |
+    #   &bull; Reinforcement Learning
+    #   &bull; Representation Learning
+    #   &bull; Robotics
+    period: 2026
+    jobtitle: M.S.
+    portrait: ../img/ppl/ajh427.jpg
+    # e-mail: ajh427@kaist.ac.kr
     google_scholar: 
