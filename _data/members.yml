@@ -65,16 +65,29 @@ etcMembers:
 Members:
 
   - name:
-    engName: Yusung Lee
+    engName: Yousung Lee
     degree:
     bio: |
-      &bull; Artificial intelligence
-      &bull; Efficient Deep Learning
-      &bull; Model Pruning
+      &bull; Vision-Language-Action Model
+      &bull; Safe and Trustworthy Robotics
+      &bull; Uncertainty Quantification
     period: Lab Representative
     jobtitle: M.S. Candidate
     portrait: ../img/ppl/Leeyusung.jpg
     e-mail: yslee410@kaist.ac.kr
+    google_scholar: 
+
+  - name:
+    engName: Soonhyuk Kang
+    degree:
+    bio: |
+      &bull; Generative AI
+      &bull; World Model
+      &bull; Autonomous Driving
+    period:
+    jobtitle: M.S. Candidate
+    portrait: ../img/ppl/soonhyuk.jpg
+    e-mail: soonhyuk.kang@kaist.ac.kr
     google_scholar: 
 
   - name:
