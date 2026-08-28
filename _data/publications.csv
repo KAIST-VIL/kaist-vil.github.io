@@ -1,4 +1,9 @@
 A,Title,Authors,Journal,Conference,Patent,Year,Link,Important
+,Perturbation-Based Uncertainty for Failure Detection in Vision-Language-Action Models,"Yousung Lee, Dongsoo Har",,"Robotics: Science and Systems (RSS) Workshop (Trustworthy Embodied Foundation Models)",,2026,,yes
+,Vision-Based Tire Lifting for Parking by Dual Parking Robot,"Neha Sengar, Yousung Lee, Kuk Won Ko, Dongsoo Har, Sangkeum Lee",IEEE Sensors Journal,,,2026,,yes
+,Dynamics-Aware Planning Representation for Zero-Shot Reinforcement Learning (Student Abstract),"Jungho An, Taeyoung Kim, Haeun Kim, Dongsoo Har",,"Proceedings of the AAAI Conference on Artificial Intelligence",,2026,,yes
+,Steering Sparse Autoencoder Latents to Control Dynamic Head Pruning in Vision Transformers (Student Abstract),"Yousung Lee, Dongsoo Har",,"Proceedings of the AAAI Conference on Artificial Intelligence",,2026,,yes
+,Nonlinear Model Predictive Control with Velocity Mapping Method for Path Tracking of Dual Differential Drive Mobile Robot,"Taemin Kang, Taeyoung Kim, Dongsoo Har",,"2025 International Conference on Control, Automation and Systems (ICCAS)",,2025,,yes
 ,TIME-VAD: Text-Informed Magnitude Enhancement Feature Learning for Vehicle Accident Detection and Anticipation,"Sumit Mishra, Medhavi Mishra, Pranjay Shyam, Dongsoo Har",IEEE Transactions on Intelligent Transportation Systems,,,2025,,yes
 ,Goal-conditioned Reinforcement Learning Approach for Autonomous Parking in Complex Environments,"Taeyoung Kim, Taemin Kang, Seungah Son, Kuk Won Ko, Dongsoo Har",,2025 International Conference on Artificial Intelligence in Information and Communication (ICAIIC),,2025,https://ieeexplore.ieee.org/abstract/document/10920799,
 ,Continuous Adversarial Text Representation Learning for Affective Recognition,"Seungah Son, Andres Saurez, Dongsoo Har",,2025 International Conference on Artificial Intelligence in Information and Communication (ICAIIC),,2025,https://ieeexplore.ieee.org/abstract/document/10920876,
